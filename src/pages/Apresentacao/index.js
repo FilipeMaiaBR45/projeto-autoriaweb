@@ -50,8 +50,8 @@ function Apresentacao() {
         </section>
 
         <section>
-          <article className="bg-dark p-5 d-flex justify-content-center background-article">
-            <Card style={{ width: '25rem' }}>
+          <article className="bg-dark p-5 d-flex justify-content-center background-article ">
+            <Card style={{ width: '25rem' }} className="shadow-lg">
               <Card.Body>
                 <Row>
                   <Col>
