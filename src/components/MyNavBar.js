@@ -24,7 +24,9 @@ function MyNavBar() {
               <NavDropdown.Item href="/calendario">Calendário</NavDropdown.Item>
               <NavDropdown.Item href="/contato">Contato</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.4">SIGAA</NavDropdown.Item>
+              <NavDropdown.Item href="https://autenticacao.ufrn.br/sso-server/login?service=https%3A%2F%2Fsigaa.ufrn.br%2Fsigaa%2Flogin%2Fcas">
+                SIGAA
+              </NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>

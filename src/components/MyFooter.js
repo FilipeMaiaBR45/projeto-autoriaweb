@@ -9,8 +9,11 @@ function MyFooter() {
       className="footer mt-auto py-3"
       style={{ backgroundColor: '#2f3a60' }}
     >
-      <div className="container align-items-center" style={{ color: 'white' }}>
-        hello world
+      <div
+        className="container d-flex justify-content-center "
+        style={{ color: 'white' }}
+      >
+        <p>© Filipe Maia - Bald Eagle.corp ©</p>
       </div>
     </footer>
   );

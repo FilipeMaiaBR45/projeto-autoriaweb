@@ -7,7 +7,7 @@ function Calendario() {
   return (
     <>
       <MyNavBar />
-      <Container className="p-5 w-50 mb-5">
+      <Container className="p-5  mb-5">
         <Accordion>
           <Card>
             <Card.Header>

@@ -10,7 +10,7 @@ function Contato() {
     <>
       <MyNavBar />
       <Container className="p-5 d-flex justify-content-center">
-        <Card style={{ width: '35rem' }}>
+        <Card style={{ width: '35rem' }} className="shadow-lg">
           <Card.Body>
             <Card.Title>Fale Conosco</Card.Title>
             <Form>
