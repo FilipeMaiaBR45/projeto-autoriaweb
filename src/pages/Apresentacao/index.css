@@ -1,0 +1,17 @@
+
+.background-article{
+    background-image: url('../../assets/bg-img-article-ok.jpg');
+    object-fit: cover;
+
+}
+
+.tituloH1{
+    color: #2f3a60;
+    font-family: Ethnocentric;
+    font-size: 1.5rem;
+    margin-top: 1.25rem;
+    text-align: center;
+}
+
+/* vh = view height (altura de tela)
+vw = view height (largura de tela) */
